@@ -1,7 +1,7 @@
 {
-  "name": "nativescript-zxing",
+  "name": "nativescript-zxing-compat",
   "version": "1.5.3",
-  "description": "A Simple ZXing barcode reader/writer",
+  "description": "A Simple ZXing barcode reader/writer with a compatibility fix with nativescript-barcodescanner",
   "main": "zxing",
   "nativescript": {
 	"platforms": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathanaela/nativescript-zxing.git"
+    "url": "https://github.com/sergio-irigoyen/nativescript-zxing.git"
   },
   "keywords": [
     "NativeScript", "Barcode", "Development", "JavaScript", "Android", "iOS", "ZXing"
@@ -27,12 +27,12 @@
     "email": "nathan@master-technology.com"
   },
   "bugs": {
-    "url": "https://github.com/nathanaela/nativescript-zxing/issues"
+    "url": "https://github.com/sergio-irigoyen/nativescript-zxing/issues"
   },
   "license": {
     "type": "APACHE",
-    "url": "https://github.com/nathanaela/nativescript-zxing/blob/master/LICENSE"
+    "url": "https://github.com/sergio-irigoyen/nativescript-zxing/blob/master/LICENSE"
   },
-  "homepage": "https://github.com/nathanaela/nativescript-zxing",
+  "homepage": "https://github.com/sergio-irigoyen/nativescript-zxing",
   "readmeFilename": "README.md"
 }
